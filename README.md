@@ -1,3 +1,1 @@
-# my-awesome-project
-
-Achievments: I already managed to clone and pull and I'm just about to push
+his awesome project is created to experiment git notions like clone, push and pull
